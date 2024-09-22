@@ -7,7 +7,7 @@
           
 <h2>Objetivos</h2>  
      <ul>
-          <li>Conocer los distintos lenguejes de desarrollador</li>
+          <li>Conocer los distintos lenguajes de desarrollador</li>
           <li>Practicar con los distintos lenguajes de desarrollador</li>
           <li>Aportar a la comunidad de GitHub</li>
       </ul>
